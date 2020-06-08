@@ -12,7 +12,7 @@ Install using Swift Package Manager.
 - Xcode 11.0 or above
 
 ## Demo/Example
-See [example repo](https://github.com/demianturner/PageControlExample).
+See example in Demo folder.
 
 
 ## License
