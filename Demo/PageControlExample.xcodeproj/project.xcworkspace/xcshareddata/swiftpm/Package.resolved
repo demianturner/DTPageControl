@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DTPageControl",
+        "repositoryURL": "https://github.com/demianturner/DTPageControl",
+        "state": {
+          "branch": null,
+          "revision": "9aa998d973a0d90030b1ca4711d53983f83494af",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
