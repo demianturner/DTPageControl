@@ -8,7 +8,7 @@ This is a PageControl component for macOS. Updated from [NSPageControl](https://
 Install using Swift Package Manager.
 
 ## Requirements
-- OS X 10.14+
+- OS X 10.12+
 - Xcode 11.0 or above
 
 ## Demo/Example
